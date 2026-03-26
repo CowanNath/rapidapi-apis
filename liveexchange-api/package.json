@@ -1,0 +1,11 @@
+{
+  "name": "liveexchange-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LiveExchange API - Real-time currency exchange rates",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  }
+}

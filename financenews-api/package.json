@@ -1,0 +1,11 @@
+{
+  "name": "financenews-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FinanceNews API - Latest financial and business news",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  }
+}
